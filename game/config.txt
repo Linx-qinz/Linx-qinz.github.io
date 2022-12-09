@@ -1,3 +1,3 @@
-Game_name:请设置游戏名称;
+Game_name:夜与安达;
 Title_bgm:Piano-melancholy-music-short.mp3;
 Title_img:bd.jpg;
