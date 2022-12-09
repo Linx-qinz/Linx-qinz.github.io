@@ -3,4 +3,4 @@ changeBg:bd2.png;
 changeFigure:tuji.png;
 
 ;注释
-土鸡:好！V我50！;
+土鸡:你好！V我50！ -tmpedw0jyv8.wav;
